@@ -5,10 +5,10 @@ jump straight up. The goal is to reach the castle at the end of the level which 
 
 ## Hardware
 
--ATMega1284p microcontroller
+* ATMega1284p microcontroller
 
--8x8 LED matrix
+* 8x8 LED matrix
 
--Parallax 2-Axis Joystick
+* Parallax 2-Axis Joystick
 
 ### Demo Link: https://www.youtube.com/watch?v=UI3YanLzr5o
